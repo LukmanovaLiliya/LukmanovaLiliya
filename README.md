@@ -6,7 +6,7 @@
 
 Я начинающий тестировщикк<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
 
-- :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
+- :seedling: Завершила курсы Инжинер по тестированию от Яндекс Практикум!
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-lukmanovaliliya-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Liliya_Lukmanova) [![Gmail Badge](https://img.shields.io/badge/-Yandex-red?style=flat&logo=Yandex&logoColor=white)](mailto:lukmanova.lilya@yandex.ru)
 
