@@ -32,14 +32,13 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
 
 </div>
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
+💻 Пройденные курсы:
 
 | Курсы                                                           | Дата    |
 | ----------------------------------------------------------------| :-----: |
@@ -47,9 +46,9 @@
 | geekbrains.ru/Основы реляционных баз данных. MySQL              | 04/2021 |
 | geekbrains.ru/Linux. Рабочая станция                            | 02/2021 |
 | geekbrains.ru/Основы HTML и CSS                                 | 05/2023 |
-| practicum.yandex/Инжинер по тестированиюО                       | 04/2023 |
+| practicum.yandex/Инжинер по тестированию                        | 04/2023 |
 
---- -->
+
 
 
 
